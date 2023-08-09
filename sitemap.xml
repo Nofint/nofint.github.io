@@ -6,8 +6,6 @@
   </url><url>
     <loc>https://nofint.github.io/posts/clash_meta/</loc>
   </url><url>
-    <loc>https://nofint.github.io/posts/content/posts/1/</loc>
-  </url><url>
     <loc>https://nofint.github.io/</loc>
   </url><url>
     <loc>https://nofint.github.io/posts/</loc>
@@ -17,5 +15,7 @@
     <loc>https://nofint.github.io/tags/</loc>
   </url><url>
     <loc>https://nofint.github.io/tags/vps/</loc>
+  </url><url>
+    <loc>https://nofint.github.io/posts/content/posts/1/</loc>
   </url>
 </urlset>
