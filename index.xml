@@ -8,21 +8,21 @@
     <language>zh-cn</language>
     <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nofint.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>clash</title>
+      <link>https://nofint.github.io/posts/sing-box/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nofint.github.io/posts/sing-box/</guid>
+      <description>Code for sing-box { &amp;#34;log&amp;#34;: { &amp;#34;disabled&amp;#34;: true // &amp;#34;level&amp;#34;: &amp;#34;error&amp;#34; }, &amp;#34;dns&amp;#34;: { &amp;#34;servers&amp;#34;: [ { &amp;#34;tag&amp;#34;: &amp;#34;cf&amp;#34;, &amp;#34;address&amp;#34;: &amp;#34;https://1.1.1.1/dns-query&amp;#34;, &amp;#34;detour&amp;#34;: &amp;#34;proxy&amp;#34; }, { &amp;#34;tag&amp;#34;: &amp;#34;dnspod&amp;#34;, &amp;#34;address&amp;#34;: &amp;#34;https://1.12.12.12/dns-query&amp;#34;, &amp;#34;detour&amp;#34;: &amp;#34;direct&amp;#34; }, { &amp;#34;tag&amp;#34;: &amp;#34;block&amp;#34;, &amp;#34;address&amp;#34;: &amp;#34;rcode://success&amp;#34; }, { &amp;#34;tag&amp;#34;: &amp;#34;remote&amp;#34;, &amp;#34;address&amp;#34;: &amp;#34;fakeip&amp;#34; } ], &amp;#34;rules&amp;#34;: [ { &amp;#34;geosite&amp;#34;:[ &amp;#34;category-ads-all&amp;#34; ], &amp;#34;server&amp;#34;: &amp;#34;block&amp;#34;, &amp;#34;disable_cache&amp;#34;: true }, { &amp;#34;outbound&amp;#34;: &amp;#34;any&amp;#34;, &amp;#34;server&amp;#34;: &amp;#34;dnspod&amp;#34; }, { &amp;#34;domain&amp;#34;:[ &amp;#34;relay.firefox.com&amp;#34; ], &amp;#34;geosite&amp;#34;: [ &amp;#34;github&amp;#34; ],</description>
+    </item>
+    
+    <item>
       <title>有关AI的网站</title>
       <link>https://nofint.github.io/posts/1/</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nofint.github.io/posts/1/</guid>
       <description>文本AI Bing 无须登录但响应慢 nbingo 需要登录 bingo Chatgpt 无须apikey翻墙 fakeai 官网 Claude (美国IP) 官网 Google Bard (美国IP) 官网 绘图AI Midjourney 官网 youtube登录教程</description>
-    </item>
-    
-    <item>
-      <title>有关AI的网站</title>
-      <link>https://nofint.github.io/posts/sing-box/</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nofint.github.io/posts/sing-box/</guid>
-      <description>Code for sing-box { &amp;#34;log&amp;#34;: { &amp;#34;disabled&amp;#34;: true // &amp;#34;level&amp;#34;: &amp;#34;error&amp;#34; }, &amp;#34;dns&amp;#34;: { &amp;#34;servers&amp;#34;: [ { &amp;#34;tag&amp;#34;: &amp;#34;cf&amp;#34;, &amp;#34;address&amp;#34;: &amp;#34;https://1.1.1.1/dns-query&amp;#34;, &amp;#34;detour&amp;#34;: &amp;#34;proxy&amp;#34; }, { &amp;#34;tag&amp;#34;: &amp;#34;dnspod&amp;#34;, &amp;#34;address&amp;#34;: &amp;#34;https://1.12.12.12/dns-query&amp;#34;, &amp;#34;detour&amp;#34;: &amp;#34;direct&amp;#34; }, { &amp;#34;tag&amp;#34;: &amp;#34;block&amp;#34;, &amp;#34;address&amp;#34;: &amp;#34;rcode://success&amp;#34; }, { &amp;#34;tag&amp;#34;: &amp;#34;remote&amp;#34;, &amp;#34;address&amp;#34;: &amp;#34;fakeip&amp;#34; } ], &amp;#34;rules&amp;#34;: [ { &amp;#34;geosite&amp;#34;:[ &amp;#34;category-ads-all&amp;#34; ], &amp;#34;server&amp;#34;: &amp;#34;block&amp;#34;, &amp;#34;disable_cache&amp;#34;: true }, { &amp;#34;outbound&amp;#34;: &amp;#34;any&amp;#34;, &amp;#34;server&amp;#34;: &amp;#34;dnspod&amp;#34; }, { &amp;#34;domain&amp;#34;:[ &amp;#34;relay.firefox.com&amp;#34; ], &amp;#34;geosite&amp;#34;: [ &amp;#34;github&amp;#34; ],</description>
     </item>
     
     <item>
